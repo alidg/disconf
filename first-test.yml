@@ -1,0 +1,3 @@
+configuration:
+  greet:
+    name: config for test just changed.
